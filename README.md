@@ -24,7 +24,7 @@ Individual documentation for each script is contained in the top section of each
 
 Download the repository
 
-`$ git clone https://github.com/Gridflare/lndpytools.git`
+`$ git clone https://github.com/newabel/lndpytools.git`
 
 Change into the new directory
 
