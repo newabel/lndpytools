@@ -1,6 +1,8 @@
 # lndpytools
 This repository is a collection of handy Python scripts for lightning node management. More scripts will be added over time.
 
+My goal is to use the rapids.ai packages from nVIDIA to speed up the graph computations. More dependencies will be required for this speedup.
+
 ## Available scripts
 ```
 checkchannels.py     LX Identify your least effective channels. WIP.
